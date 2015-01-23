@@ -1,7 +1,7 @@
 <?php
 
 // Modelo de objetos que se corresponde con la tabla de MySQL
-class VideoGame extends \Illuminate\Database\Eloquent\Model
+class Videogame extends \Illuminate\Database\Eloquent\Model
 {
 
 }

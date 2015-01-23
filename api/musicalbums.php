@@ -1,7 +1,7 @@
 <?php
 
 // Modelo de objetos que se corresponde con la tabla de MySQL
-class MusicAlbum extends \Illuminate\Database\Eloquent\Model
+class Musicalbum extends \Illuminate\Database\Eloquent\Model
 {
 
 }
